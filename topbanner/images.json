@@ -1,5 +1,23 @@
 [
   {
+    "url": "https://cdn.jsdelivr.net/gh/thakaresahil-guardinger/hi2eDNjqzLY9y_n_K_agWuVX8vJPK-8lWsdanxvrgqI@refs/heads/main/topbanner/rocket_propellent.gif",
+    "title": "Measurement Systems and Fabrication of Test Rigs & Electromechanical Systems",
+    "description": "We design and build intelligent measurement systems and custom test rigs that enable real-time insights into critical components, processes, and experimental setups — where accuracy, repeatability, and robustness are essential.",
+    "alt": "Precision measurement test rig with electromechanical components"
+  },
+  {
+    "url": "https://cdn.jsdelivr.net/gh/thakaresahil-guardinger/hi2eDNjqzLY9y_n_K_agWuVX8vJPK-8lWsdanxvrgqI@refs/heads/main/topbanner/weather_radar.mp4",
+    "title": "Hyper Local Weather Services Using Weather Radars",
+    "description": "Seamless integration of real-time sensor data for live weather monitoring, visualization, and rapid response.",
+    "alt": "Weather monitoring station with climate science equipment"
+  },
+   {
+    "url": "https://cdn.jsdelivr.net/gh/thakaresahil-guardinger/hi2eDNjqzLY9y_n_K_agWuVX8vJPK-8lWsdanxvrgqI@refs/heads/main/topbanner/airborne_radar.mp4",
+    "title": "Multi-Domain Airborne Radar for Strategic Reconnaissance Operations",
+    "description": "We design and build intelligent measurement systems and custom test rigs that enable real-time insights into critical components, processes, and experimental setups — where accuracy, repeatability, and robustness are essential.",
+    "alt": "Multi-Domain Airborne Radar for Strategic Reconnaissance Operations"
+  },
+  {
     "url": "https://raw.githubusercontent.com/thakaresahil-guardinger/hi2eDNjqzLY9y_n_K_agWuVX8vJPK-8lWsdanxvrgqI/refs/heads/main/topbanner/underwater-hero.mp4",
     "title": "Real-Time Monitoring of Underwater Activity and Anomalies",
     "description": "Diving into underwater innovation with advanced signal processing and sustainable monitoring in maritime industries",
@@ -16,23 +34,5 @@
     "title": "Situational Awareness and Command Control Systems",
     "description": "Real-time sensor data integration directly within the user interface, enabling real-time monitoring, data visualization, and interaction",
     "alt": "Command control interface showing situational awareness software"
-  },
-  {
-    "url": "https://cdn.jsdelivr.net/gh/thakaresahil-guardinger/hi2eDNjqzLY9y_n_K_agWuVX8vJPK-8lWsdanxvrgqI@refs/heads/main/topbanner/weather_radar.mp4",
-    "title": "Hyper Local Weather Services Using Weather Radars",
-    "description": "Seamless integration of real-time sensor data for live weather monitoring, visualization, and rapid response.",
-    "alt": "Weather monitoring station with climate science equipment"
-  },
-  {
-    "url": "https://cdn.jsdelivr.net/gh/thakaresahil-guardinger/hi2eDNjqzLY9y_n_K_agWuVX8vJPK-8lWsdanxvrgqI@refs/heads/main/topbanner/rocket_propellent.gif",
-    "title": "Measurement Systems and Fabrication of Test Rigs & Electromechanical Systems",
-    "description": "We design and build intelligent measurement systems and custom test rigs that enable real-time insights into critical components, processes, and experimental setups — where accuracy, repeatability, and robustness are essential.",
-    "alt": "Precision measurement test rig with electromechanical components"
-  },
-  {
-    "url": "https://cdn.jsdelivr.net/gh/thakaresahil-guardinger/hi2eDNjqzLY9y_n_K_agWuVX8vJPK-8lWsdanxvrgqI@refs/heads/main/topbanner/airborne_radar.mp4",
-    "title": "Multi-Domain Airborne Radar for Strategic Reconnaissance Operations",
-    "description": "We design and build intelligent measurement systems and custom test rigs that enable real-time insights into critical components, processes, and experimental setups — where accuracy, repeatability, and robustness are essential.",
-    "alt": "Multi-Domain Airborne Radar for Strategic Reconnaissance Operations"
   }
 ]
