@@ -1,0 +1,163 @@
+[
+  {
+    "title": "Electronics & Instrumentation Engineer",
+    "location": "Pune, India",
+    "experience": "M.Tech/PhD with 1–2 years of relevant experience",
+    "education": "M.Tech/PhD in Electronics, Instrumentation, or related field",
+    "description": "Design, develop, and deploy advanced electronic and instrumentation systems for defense and critical infrastructure.",
+    "responsibilities": [
+      "Engage with clients to understand requirements and translate them into technical specifications.",
+      "Design, develop, and test electronic systems involving sensors, signal conditioning, ADCs, controllers, and power supplies.",
+      "Develop and integrate systems with servo motors, advanced control systems, and data acquisition platforms.",
+      "Perform PCB assembly, soldering, and troubleshooting.",
+      "Work with Raspberry Pi, Jetson Nano, LattePanda, Arduino for embedded development.",
+      "Conduct integration tasks: hardware–software interfacing, calibration, and testing.",
+      "Support data acquisition and signal processing workflows.",
+      "Liaise with vendors for sourcing, quotes, and hardware evaluation.",
+      "Prepare technical documentation for designs, tests, and integrations.",
+      "Participate in field deployments: installation, commissioning, troubleshooting."
+    ],
+    "requirements": [
+      "Proficiency in electronic hardware design and debugging.",
+      "Strong knowledge of signal processing, sensor interfacing, and data acquisition.",
+      "Hands-on experience with servo motors and control systems.",
+      "Familiarity with MATLAB, LabVIEW, PLCs, and SCADA.",
+      "Embedded firmware development for microcontrollers.",
+      "Knowledge of ruggedized system design for harsh environments."
+    ],
+    "preferred": [
+      "Strong analytical and problem-solving skills.",
+      "Excellent communication and teamwork.",
+      "Attention to detail and proactive approach.",
+      "Willingness to travel for deployments.",
+      "Ability to work independently under time-sensitive conditions."
+    ],
+    "apply": { "instructions": "Put details and Submit Resume" }
+  },
+  {
+    "title": "Senior Signal Processing / Machine Learning Engineer",
+    "location": "Pune, Maharashtra, India",
+    "experience": "Ph.D. 0–1 years / M.Tech 1–3 years",
+    "education": "M.Tech or Ph.D. in Signal Processing, Electrical/Electronics Engineering, or related field",
+    "description": "Design advanced signal processing algorithms, apply ML/DL to time-series data, and deploy real-time solutions.",
+    "responsibilities": [
+      "Research, design, and implement DSP algorithms (FFT, STFT, wavelet, spectral analysis).",
+      "Develop and train ML/DL models for predictive modeling and anomaly detection.",
+      "Work with time-series data: preprocessing, noise reduction, and feature engineering.",
+      "Optimize algorithms for real-time and embedded systems.",
+      "Collaborate with hardware, software, and data science teams.",
+      "Stay updated on DSP and ML research, propose innovations.",
+      "Prepare reports, documentation, and presentations."
+    ],
+    "requirements": [
+      "Strong foundation in DSP fundamentals.",
+      "Hands-on with Python, MATLAB, or C/C++.",
+      "Experience with ML libraries (TensorFlow, PyTorch, Scikit-learn).",
+      "Work on time-series/sensor data analysis.",
+      "Knowledge of statistics, linear algebra, and optimization."
+    ],
+    "preferred": [
+      "Deep learning for time-series (CNNs, RNNs, Transformers).",
+      "Experience with underwater signal processing.",
+      "Experience with DSP processors, FPGAs, GPUs.",
+      "Exposure to communication, acoustic/vibration, radar/sonar."
+    ],
+    "offer": [
+      "Cutting-edge projects in DSP & AI/ML.",
+      "Opportunity for patents, publications.",
+      "Collaboration with multi-domain experts.",
+      "Career growth and mentorship.",
+      "Competitive compensation and benefits."
+    ],
+    "apply": { "instructions": "Put details and Submit Resume" }
+  },
+  {
+    "title": "Machine Learning Engineer",
+    "location": "Pune, Maharashtra, India",
+    "experience": "0–3 years",
+    "education": "B.E./M.Tech in Computer Science or related field",
+    "description": "Develop, deploy, and optimize ML models for mission-critical aerospace and defense applications.",
+    "responsibilities": [
+      "Design and develop ML models for classification, regression, clustering, NLP, deep learning.",
+      "Preprocess and analyze structured/unstructured datasets.",
+      "Deploy, monitor, and maintain ML models in production.",
+      "Collaborate with data engineering, product, and software teams.",
+      "Optimize models for accuracy, latency, and scalability.",
+      "Research advancements in ML/AI frameworks and deployment."
+    ],
+    "requirements": [
+      "Strong theoretical knowledge of ML algorithms and statistics.",
+      "Proficiency in Python and ML frameworks (scikit-learn, TensorFlow, PyTorch, Keras).",
+      "Good problem-solving skills and teamwork."
+    ],
+    "offer": [
+      "End-to-end ML project exposure.",
+      "Cutting-edge AI/ML technologies.",
+      "Collaborative and innovative work culture.",
+      "Competitive salary and benefits."
+    ],
+    "apply": { "instructions": "Put details and Submit Resume" }
+  },
+  {
+    "title": "Machine Condition Monitoring / Predictive Maintenance Scientist",
+    "location": "Pune, Maharashtra, India",
+    "experience": "Ph.D. in Mechanical Engineering (IIT/NIT preferred) or M.Tech with experience",
+    "education": "M.Tech / Ph.D. in Mechanical Engineering (Condition Monitoring, Rotating Machinery, or Vibration Analysis)",
+    "description": "Research and develop predictive maintenance and condition monitoring techniques for rotating and marine machinery.",
+    "responsibilities": [
+      "Apply vibration analysis, thermography, acoustic emission, ultrasound, and shock pulse techniques.",
+      "Work with accelerometers, microphones, probes, DAQ systems, and signal conditioners.",
+      "Develop technical specifications and proposals.",
+      "Select and integrate sensors, instrumentation, and vendors.",
+      "Analyze health data for diagnostics and failure prediction.",
+      "Conduct R&D on predictive maintenance frameworks.",
+      "Design and execute experimental studies on mechanical behavior.",
+      "Collaborate with cross-disciplinary teams for integration.",
+      "Publish research, patents, and novel methodologies."
+    ],
+    "requirements": [
+      "Ph.D. in Mechanical Engineering (Condition Monitoring, Tribology, Vibration Analysis).",
+      "Strong foundation in dynamics, vibration, and signal processing.",
+      "Hands-on with diesel/marine engine monitoring.",
+      "Proficiency in MATLAB, LabVIEW, or Python.",
+      "Knowledge of FFT, STFT, PSD, Wavelet Transform, Envelope Analysis."
+    ],
+    "offer": [
+      "Opportunity to apply research in real industrial settings.",
+      "Cross-disciplinary collaboration.",
+      "High-impact research and patent opportunities.",
+      "Work on marine and heavy-duty engines."
+    ],
+    "apply": { "instructions": "Put details and Submit Resume" }
+  },
+  {
+    "title": "Field Engineer – Mechanical / Instrumentation",
+    "experience": "2–3 Years",
+    "description": "We're seeking a practical engineer passionate about diagnostics and condition monitoring.",
+    "requirements": [
+      "Proficient in handling Vibration Analyzers, Thermographic Cameras, SPM, and Ultrasonic testers.",
+      "Strong foundation in vibration analysis and mechanical health diagnostics.",
+      "Experience in onsite equipment monitoring, reporting, and interpretation of diagnostic data.",
+      "Willingness to travel for field deployments and system integration.",
+      "Good communication and reporting skills."
+    ],
+    "apply": {
+      "instructions": "Put details and Submit Resume"
+    }
+  },
+  {
+    "title": "Mechanical Engineer – Underwater ROV and Unmanned Underwater Vehicle Design",
+    "experience": "2–3 Years",
+    "description": "Be part of the team designing next-gen unmanned underwater systems.",
+    "requirements": [
+      "In-depth knowledge of ROV (Remotely Operated Vehicle) and UUV (Unmanned Underwater Vehicle) design.",
+      "Experience in underwater hydrodynamics, sealing, and materials selection.",
+      "Proficient in 3D CAD tools (SolidWorks, Autodesk, etc.).",
+      "Hands-on experience with prototyping, testing, and pressure-resistance design.",
+      "Familiarity with marine standards and component integration."
+    ],
+    "apply": {
+      "instructions": "Put details and Submit Resume"
+    }
+  }
+]
