@@ -1,4 +1,90 @@
 [
+    {
+    "title": "Research Assistant – Health Monitoring System for Diesel Engines",
+    "location": "Pune, India",
+    "experience": "B.Tech / M.Tech (Mechanical/Automobile with specialization in IC Engines)",
+    "education": "B.Tech in Mechanical or Automobile Engineering (specialization in IC Engines) or M.Tech in Mechanical/Automobile Engineering with specialization in IC Engines",
+    "description": "Join the Engine Health Monitoring Systems team to develop strap-on multi-sensor monitoring solutions for diesel engine subsystems, focusing on data acquisition, baseline & fault modelling, and algorithmic health assessment.",
+    "responsibilities": [
+      "Identify and define appropriate sensor deployment locations on diesel engines (combustion, exhaust, cooling, lubrication) for non-intrusive strap-on sensors.",
+      "Select suitable sensors (temperature, pressure, vibration, ultrasonic) considering environment (heat, vibration, oil mist), mounting feasibility, repeatability, and data quality.",
+      "Design and fabricate (or coordinate fabrication of) attach-and-detach mounting mechanisms for sensors while the engine remains mounted in the vehicle.",
+      "Create detailed fault-mapping trees and diagrams correlating measured parameter changes (temperature, pressure, vibration, ultrasonic) to subsystem/component health states or fault conditions.",
+      "Devise experimental plans to acquire baseline data under different loads/speeds and generate labelled datasets by introducing controlled simulated faults (one at a time).",
+      "Develop testing protocols (sampling rates, operating envelopes, sensor calibration, safety and environmental correction procedures).",
+      "Acquire and log test data, ensure preprocessing readiness and hand-over to the software/algorithm development team.",
+      "Provide domain-expert support to software/algorithm teams on diesel engine fundamentals, subsystem behaviour, and fault signatures in sensor signals.",
+      "Maintain documentation: sensor mounting reports, experimental logs, fault-mapping diagrams, protocol documents and data-archive indexing.",
+      "Collaborate with cross-functional teams (hardware, sensors, data acquisition, software) to support integration and test phases."
+    ],
+    "requirements": [
+      "B.Tech or M.Tech in Mechanical/Automobile Engineering with specialization or strong coursework in IC (internal combustion) engines.",
+      "Interest or prior exposure to engine testing, sensors, data-acquisition, condition monitoring or diagnostics is a plus.",
+      "Hands-on attitude: experience mounting sensors, working on test benches, and familiarity with mechanical and sensor hardware.",
+      "Comfortable with signal/data handling and basic scripting (MATLAB or Python desirable).",
+      "Good communication skills (English and/or Hindi) and ability to produce clear documentation."
+    ],
+    "preferred": [
+      "Prior experience with diesel engine testing or condition monitoring projects.",
+      "Familiarity with data acquisition systems, DAQ configuration and basic signal preprocessing.",
+      "Experience preparing experimental protocols and labeling datasets."
+    ],
+    "offer": [
+      "Fellowship (B.Tech): ₹40,000 per month",
+      "Fellowship (M.Tech): ₹50,000 per month",
+      "Duration: 12 months initially (extendable to a second year subject to review and project funding)",
+      "Fully on-site (Pune) — occasional work during engine test runs outside regular hours as needed",
+      "Travel may be required to engine test workshops, vehicle installation sites or sensor mounting locations",
+      "Consolidated fellowship (no additional benefits unless specified separately)",
+      "Start date: Immediate / As soon as possible",
+      "Career progression: Candidates demonstrating exceptional performance may be offered a regular position in the Electronic and Mechanical Division after one year",
+      "How to Apply: Email your resume to careers@guardinger.in"
+    ],
+    "apply": {
+      "instructions": "Email your resume to careers@guardinger.in"
+    }
+  },
+  {
+    "title": "Industrial Post-Doctoral Researcher – Health Monitoring System for Diesel Engines",
+    "location": "Pune, India",
+    "experience": "Ph.D.",
+    "education": "Ph.D. in Mechanical or Automobile Engineering (specialization in IC engines) or equivalent research experience",
+    "description": "Lead and execute the health monitoring system project for diesel engines, including multi-sensor deployment, experimental design, baseline and fault data acquisition, and algorithmic health assessment.",
+    "responsibilities": [
+      "Identify and define appropriate sensor deployment locations on diesel engines (combustion, exhaust, cooling, lubrication) for non-intrusive strap-on sensors.",
+      "Select suitable sensors (temperature, pressure, vibration, ultrasonic) considering environment (heat, vibration, oil mist), mounting feasibility, repeatability, and data quality.",
+      "Design and coordinate fabrication of attach-and-detach mounting mechanisms for in-situ engine sensor installation.",
+      "Create detailed fault-mapping trees and diagrams correlating measured parameter changes to subsystem/component health states or fault conditions.",
+      "Devise and lead experimental plans to acquire baseline data under varying loads/speeds and generate labelled datasets by introducing controlled faults.",
+      "Develop testing protocols aligned with standards: sampling rates, operating envelopes, sensor calibration, safety and environmental correction procedures.",
+      "Acquire, validate and hand over test data to software/algorithm teams ensuring preprocessing readiness.",
+      "Provide domain-expert support to algorithm teams on engine fundamentals, signal manifestation of faults, and multi-sensor fusion strategies.",
+      "Maintain technical documentation, experimental logs, fault-mapping diagrams, protocol documents and data indexing.",
+      "Mentor junior researchers/assistants and collaborate with cross-functional teams for integration and testing."
+    ],
+    "requirements": [
+      "Ph.D. in Mechanical/Automobile Engineering with specialization in IC engines or equivalent experience in engine diagnostics/condition monitoring.",
+      "Strong research track record, experience in engine testing and sensor deployment.",
+      "Expertise in signal processing (vibration, ultrasonic, temperature/pressure) and data analytics.",
+      "Proven ability to lead experiments, manage DAQ systems, and produce technical documentation/publications.",
+      "Excellent communication, documentation and mentoring skills."
+    ],
+    "preferred": [
+      "Prior publications or patents in engine diagnostics, condition monitoring or related sensor analytics.",
+      "Experience working with multi-disciplinary teams and field deployments."
+    ],
+    "offer": [
+      "Consolidated salary: ₹70,000 per month",
+      "Duration: 12 months initially (extendable to 2 years subject to project evaluation and funding)",
+      "On-site (Pune) — flexibility required for engine test bench operations and field mounting",
+      "Consolidated salary (no extra allowances unless specified)",
+      "Start date: Immediate",
+      "Career progression: Exceptional candidates may be offered a regular position after one year"
+    ],
+    "apply": {
+      "instructions": "Email your resume to careers@guardinger.in"
+    }
+  },
   {
     "title": "Electronics & Instrumentation Engineer",
     "location": "Pune, India",
